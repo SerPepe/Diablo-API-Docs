@@ -17,8 +17,8 @@ Used to fetch the latest [Burns](../models/burn.md) by chain and exchange.
     - 250: FTM
     - 369: PLS
   - `exchange`: string
-    - `paint`: PaintSwap
-    - `spirit`: SpiritSwap
+    - `pulse`: PulseX
+    - `pancakeswap`: PancakeSeap
     - `sushi`: SushiSwap
   - `limit`: number
     - default: 15
