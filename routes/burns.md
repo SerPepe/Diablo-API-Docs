@@ -14,7 +14,6 @@ Used to fetch the latest [Burns](../models/burn.md) by chain and exchange.
   - chainId: number
     - 1: ETH
     - 56: BSC
-    - 250: FTM
     - 369: PLS
   - `exchange`: string
     - `pulse`: PulseX
