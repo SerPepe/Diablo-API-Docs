@@ -16,7 +16,6 @@ Used to fetch the most traded tokens per exchange. Returns a list of [Token](../
   - `chainId`: number
     - 1: ETH
     - 56: BSC
-    - 250: FTM
     - 369: PLS
   - `exchange`: string
     - `paint`: PaintSwap
